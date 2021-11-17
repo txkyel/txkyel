@@ -1,6 +1,5 @@
 ### Hi, I’m @txkyel
 - 👀 I’m interested in custom mechanical keyboards
-- 🌱 I’m currently learning Vue.js
 - 📫 How to reach me: kyle.xiao@mail.utoronto.ca
 
 <!---
