@@ -1,4 +1,5 @@
 ### Hi, I’m @txkyel
+- I'm currently configuring my personal build of Arch Linux
 - 👀 I’m interested in custom mechanical keyboards
 - 📫 How to reach me: kyle.xiao@mail.utoronto.ca
 
