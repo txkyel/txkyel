@@ -1,7 +1,6 @@
 ### Hi, I’m @txkyel
-- I'm currently learning TypeScript
+- I'm currently learning about tiling window managers and ricing
 - 👀 I’m interested in custom mechanical keyboards
-- 📫 How to reach me: kyle.xiao@mail.utoronto.ca
 
 <!---
 txkyel/txkyel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
